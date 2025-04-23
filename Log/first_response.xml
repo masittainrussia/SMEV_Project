@@ -1,0 +1,1 @@
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><MessageResult xmlns="urn://x-artefacts-smev-gov-ru/services/service-adapter/types" xmlns:ns2="urn://x-artefacts-smev-gov-ru/services/service-adapter/types/faults"><itSystem>******</itSystem><MessageId>your UUID</MessageId></MessageResult></S:Body></S:Envelope>

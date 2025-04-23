@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:typ="urn://x-artefacts-smev-gov-ru/services/service-adapter/types"><soapenv:Header /><soapenv:Body><typ:MessageQuery><typ:itSystem>******</typ:itSystem><typ:messageTypeCriteria>RESPONSE</typ:messageTypeCriteria></typ:MessageQuery></soapenv:Body></soapenv:Envelope>
